@@ -30,6 +30,12 @@ const App = () => {
 };
 
 export default App;
+      <ReactMemo />
+    </div>
+  );
+};
+
+export default App;
       <hr />
       <ReactMemo />
     </div>
